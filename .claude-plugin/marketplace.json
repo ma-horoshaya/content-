@@ -1,0 +1,16 @@
+{
+  "name": "ma-horoshaya-marketplace",
+  "displayName": "Ma Horoshaya Marketplace",
+  "owner": {
+    "name": "ma-horoshaya",
+    "url": "https://github.com/ma-horoshaya"
+  },
+  "plugins": [
+    {
+      "name": "content-tools",
+      "displayName": "Content Tools",
+      "description": "Content creation plugin with multiple AI skills.",
+      "source": "./"
+    }
+  ]
+}
