@@ -1,19 +1,15 @@
 {
-  "name": "ma-horoshaya",
-  "metadata": {
-    "description": "Маркетинговые плагины для Claude Code: контент-конвейеры, воронки и генерация вирусного контента."
-  },
+  "name": "ma-horoshaya-marketplace",
+  "displayName": "Ma Horoshaya Marketplace",
   "owner": {
-    "name": "ma-horoshaya"
+    "name": "ma-horoshaya",
+    "url": "https://github.com/ma-horoshaya"
   },
   "plugins": [
     {
-      "name": "content-system",
-      "description": "Контент-конвейер: автоматическая генерация вирусных Reels, постов, карусели, статей и сторис из исходного материала. 10 вирусных форматов, система байтов для Telegram, полный контент-конвейер с Notion-интеграцией.",
-      "author": {
-        "name": "ma-horoshaya"
-      },
-      "category": "marketing",
+      "name": "content-tools",
+      "displayName": "Content Tools",
+      "description": "Content creation plugin with multiple AI skills.",
       "source": "./"
     }
   ]
