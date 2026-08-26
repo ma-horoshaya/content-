@@ -1,9 +1,11 @@
 {
-  "name": "content-system",
-  "version": "0.3.0",
-  "description": "Контент-система с Notion-интеграцией: автоматическая генерация вирусных Reels, постов, карусели и другого контента из исходного материала. Сохраняет всё в Notion-базы (Исходники → Контент RU / Content EN). Включает 10 вирусных форматов с референсами, систему байтов для Telegram, полный контент-конвейер.",
+  "name": "content-tools",
+  "displayName": "Content Tools",
+  "version": "1.0.0",
+  "description": "A collection of AI content creation skills for Claude Code.",
   "author": {
-    "name": "ma-horoshaya"
+    "name": "ma-horoshaya",
+    "url": "https://github.com/ma-horoshaya"
   },
-  "keywords": ["content", "reels", "marketing", "viral", "telegram", "notion"]
+  "license": "MIT"
 }
